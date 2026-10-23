@@ -14,7 +14,7 @@ Any static web host can serve this folder. To preview locally, open `index.html`
 
 - Responsive website, accessible navigation, English/Chinese toggle with a saved preference, and keyboard-accessible gallery (Escape closes the lightbox; arrow keys browse images).
 - Three detailed services: dessert menu consulting and kitchen training; sweet tables and venue celebrations; pastry masterclasses.
-- Four homepage collection cards open their corresponding filtered portfolio galleries. The 23-work portfolio, dedicated chef profile, three service pages, qualifications and practical FAQs remain browsable. The navigation includes a Services submenu; visitors explore content directly on the website rather than downloading documents.
+- Four homepage collection cards open their corresponding filtered portfolio galleries: Cakes & Cheesecakes (9), Cookies & Small Desserts (7), Boulangerie (3), and Gatherings (4). The cream-cookie photograph leads Cookies & Small Desserts. The 23-work portfolio, dedicated chef profile, three service pages, qualifications and practical FAQs remain browsable. The navigation includes a Services submenu; visitors explore content directly on the website rather than downloading documents.
 - 33 additional studio photographs with smaller responsive versions, selected portfolio photographs and a 10-second preparation film. The film plays silently in a seamless loop when visible, with a discreet pause control and support for reduced-motion preferences.
 - An enquiry form that opens an email draft, plus a copyable brief for WeChat. It does not submit to a server or send a message automatically.
 - All 22 supplied photographs, preserved unchanged in `originals/`.

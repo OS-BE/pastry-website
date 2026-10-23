@@ -7,7 +7,10 @@
   const pieces = all('.lp-piece');
   const dialog = byId('portfolio-dialog');
   const requestedCollection = new URLSearchParams(window.location.search).get('collection');
-  let filter = ['cheesecake', 'desserts', 'bread', 'events'].includes(requestedCollection) ? requestedCollection : 'all';
+  const collectionAliases = { cheesecake: 'cakes', desserts: 'small-desserts' };
+  const initialCollection = Object.prototype.hasOwnProperty.call(collectionAliases, requestedCollection)
+    ? collectionAliases[requestedCollection] : requestedCollection;
+  let filter = ['cakes', 'small-desserts', 'bread', 'events'].includes(initialCollection) ? initialCollection : 'all';
   let current = 0;
   let opener;
 
