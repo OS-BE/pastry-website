@@ -14,7 +14,7 @@ Any static web host can serve this folder. To preview locally, open `index.html`
 
 - Responsive website, accessible navigation, English/Chinese toggle with a saved preference, and keyboard-accessible gallery (Escape closes the lightbox; arrow keys browse images).
 - Three detailed services: dessert menu consulting and kitchen training; sweet tables and venue celebrations; pastry masterclasses.
-- A filtered collection of creations, a dedicated chef profile, three service pages, qualifications and practical FAQs. The navigation includes a Services submenu; visitors explore content directly on the website rather than downloading documents.
+- Four homepage collection cards open their corresponding filtered portfolio galleries. The 23-work portfolio, dedicated chef profile, three service pages, qualifications and practical FAQs remain browsable. The navigation includes a Services submenu; visitors explore content directly on the website rather than downloading documents.
 - 33 additional studio photographs with smaller responsive versions, selected portfolio photographs and a 10-second preparation film. The film plays silently in a seamless loop when visible, with a discreet pause control and support for reduced-motion preferences.
 - An enquiry form that opens an email draft, plus a copyable brief for WeChat. It does not submit to a server or send a message automatically.
 - All 22 supplied photographs, preserved unchanged in `originals/`.
@@ -31,4 +31,4 @@ The original photographs are included for preservation and are not loaded by the
 
 The additional camera RAW files and the original media archive are retained separately, outside this deployment directory. Web-ready versions of the additional photographs are included here. The published CV uses the updated Instagram account @lina.pastry; other contact details are preserved, as authorized for public publication.
 
-The October revision adds a collaboration section (first meeting, agreed plan, creation and delivery), a Services / Collaborate navigation, matcha-green accents and four user-selected gallery photographs. The green hero and seamless preparation film remain in place.
+The October revision adds a collaboration section (first meeting, agreed plan, creation and delivery), a Services / Collaborate navigation and matcha-green accents. The four user-selected photographs have prominent, unique homepage placements; the homepage does not repeat any photograph. The green hero and seamless preparation film remain in place. The city line reads Shanghai · Dubai · Moscow · Tashkent; current availability remains Shanghai and across China.

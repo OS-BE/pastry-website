@@ -6,7 +6,8 @@
   const say = (en, zh) => language() === 'zh' ? zh : en;
   const pieces = all('.lp-piece');
   const dialog = byId('portfolio-dialog');
-  let filter = 'all';
+  const requestedCollection = new URLSearchParams(window.location.search).get('collection');
+  let filter = ['cheesecake', 'desserts', 'bread', 'events'].includes(requestedCollection) ? requestedCollection : 'all';
   let current = 0;
   let opener;
 
