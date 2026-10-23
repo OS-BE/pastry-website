@@ -1,6 +1,6 @@
 # LINA.Pastry — pastry consulting & venue experiences
 
-A responsive English / Simplified Chinese website for Lina, working as LINA.Pastry. Content is grounded in her supplied CV, portfolio, service brief and photography. Shanghai-based, available for projects across China and in Moscow.
+A responsive English / Simplified Chinese website for Lina, working as LINA.Pastry. Content is grounded in her supplied CV, portfolio, service brief and photography. Shanghai-based, available for projects across China.
 
 ## Deploy to Vercel
 
@@ -19,7 +19,7 @@ Any static web host can serve this folder. To preview locally, open `index.html`
 - An enquiry form that opens an email draft, plus a copyable brief for WeChat. It does not submit to a server or send a message automatically.
 - All 22 supplied photographs, preserved unchanged in `originals/`.
 - Optimized WebP copies of all 22 photographs in `assets/images/`.
-- Updated CV and portfolio PDFs in `assets/documents/`, using Lina as the public name. The CV includes @lina.pastry and availability in Moscow; source PDFs are retained separately.
+- Updated CV and portfolio PDFs in `assets/documents/`, using Lina as the public name. The CV includes @lina.pastry and Shanghai as the current base; source PDFs are retained separately.
 
 ## Editing
 
