@@ -11,7 +11,7 @@
     document.documentElement.lang = next === 'zh' ? 'zh-Hans' : 'en';
     $$('[data-en]').forEach(el => el.textContent = el.dataset[next]);
     $$('[data-alt-en]').forEach(el => el.alt = next === 'en' ? el.dataset.altEn : el.dataset.altZh);
-    $('.brand').setAttribute('aria-label',say('LINA.Pastry home','LINA.Pastry 首页'));
+    $('.brand').setAttribute('aria-label',say('Lina.Pastry home','Lina.Pastry 首页'));
     $('.scroll-cue').setAttribute('aria-label',say('Explore services','了解合作服务'));
     const film = $('video'); if(film)film.setAttribute('aria-label',say('Pastry preparation film','甜品制作短片'));
     $('#language').textContent = say('中文', 'EN');
@@ -19,7 +19,7 @@
     $('.skip').textContent = say('Skip to content','跳至内容');
     $('#main-nav').setAttribute('aria-label',say('Main navigation','主导航'));
     $('#menu-toggle').setAttribute('aria-label',say('Toggle navigation','展开或收起导航'));
-    document.title = say('LINA.Pastry | Pastry consulting & venue experiences','LINA.Pastry | 甜品顾问与场地活动体验');
+    document.title = say('Lina.Pastry | Pastry consulting & venue experiences','Lina.Pastry | 甜品顾问与场地活动体验');
     try { localStorage.setItem('lina-pastry-language', next); } catch {}
     updateMotionLabel();
   }
@@ -74,6 +74,6 @@
     if(data.get('guests'))lines.push(`${say('Guests','人数')}: ${data.get('guests')}`);
     lines.push('',String(data.get('message')||''));return lines.join('\n');
   }
-  form.addEventListener('submit',e => {e.preventDefault();if(!form.reportValidity())return;const body=brief();const subject=say('LINA.Pastry — project enquiry','LINA.Pastry — 合作咨询');window.location.href=`mailto:lina.shipihina@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;formStatus('Your email draft is ready. If your email app did not open, use “Copy brief” and send it by email or WeChat.','邮件草稿已准备好。如果邮件应用未打开，请点击“复制需求”，通过邮件或微信发送。');});
+  form.addEventListener('submit',e => {e.preventDefault();if(!form.reportValidity())return;const body=brief();const subject=say('Lina.Pastry — project enquiry','Lina.Pastry — 合作咨询');window.location.href=`mailto:lina.shipihina@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;formStatus('Your email draft is ready. If your email app did not open, use “Copy brief” and send it by email or WeChat.','邮件草稿已准备好。如果邮件应用未打开，请点击“复制需求”，通过邮件或微信发送。');});
   $('#copy-brief').addEventListener('click',async () => {if(!form.reportValidity())return;const ok=await copyText(brief());if(ok)formStatus('Brief copied. Paste it into WeChat or an email to Lina.','需求已复制，请粘贴到微信或邮件中发送给 Lina。');else formStatus('Could not copy automatically. Please select and copy your details manually.','无法自动复制，请手动选择并复制填写内容。');});
 })();

@@ -1,6 +1,6 @@
-# LINA.Pastry — pastry consulting & venue experiences
+# Lina.Pastry — pastry consulting & venue experiences
 
-A responsive English / Simplified Chinese website for Lina, working as LINA.Pastry. Content is grounded in her supplied CV, portfolio, service brief and photography. Shanghai-based, available for projects across China.
+A responsive English / Simplified Chinese website for Lina, working as Lina.Pastry. Content is grounded in her supplied CV, portfolio, service brief and photography. Shanghai-based, available for projects across China.
 
 ## Deploy to Vercel
 

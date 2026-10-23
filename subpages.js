@@ -16,7 +16,7 @@
     $('#language').setAttribute('aria-label', say('Switch to Chinese', 'Switch to English'));
     $('#menu-toggle').setAttribute('aria-label', say('Toggle navigation', '展开或收起导航'));
     nav.setAttribute('aria-label', say('Main navigation', '主导航'));
-    $('.site-header .brand').setAttribute('aria-label', say('LINA.Pastry home', 'LINA.Pastry 首页'));
+    $('.site-header .brand').setAttribute('aria-label', say('Lina.Pastry home', 'Lina.Pastry 首页'));
     $('.skip').textContent = say('Skip to content', '跳至内容');
     try { localStorage.setItem('lina-pastry-language', language); } catch {}
     document.dispatchEvent(new CustomEvent('lina:languagechange', { detail: { language } }));
