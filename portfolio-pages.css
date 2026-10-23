@@ -11,7 +11,7 @@
 .lp-profile-hero { display: grid; grid-template-columns: 1.06fr 1fr; align-items: stretch; padding: 35px 4% 48px 7%; gap: 6%; }
 .lp-profile-copy { padding: 60px 0 25px; align-self: center; }
 .lp-location { margin-top: 42px; font-size: 11px; }
-.lp-profile-portrait img { height: 660px; object-fit: cover; object-position: 50% 24%; }
+.lp-profile-portrait img { height: 660px; object-fit: cover; object-position: 50% 0%; }
 .lp-profile-portrait figcaption { font-size: 9px; letter-spacing: 1.7px; color: var(--muted); margin-top: 13px; }
 .lp-profile-facts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 30px 7%; border-block: 1px solid var(--line); }
 .lp-profile-facts > div { display: flex; flex-direction: column; gap: 9px; }
