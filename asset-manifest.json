@@ -1,0 +1,112 @@
+[
+  {
+    "original": "originals/IMG_20261007_171624.jpg",
+    "web": "assets/images/photo-00.webp",
+    "sha256": "423f0456dafa7afd986719b25ab81bfeccd755c54669d1cc8279bf518a040907"
+  },
+  {
+    "original": "originals/IMG_20261007_172834_931.jpg",
+    "web": "assets/images/photo-01.webp",
+    "sha256": "ebdee642fb132261a02244e0abeaf7b083b28aae80c5e87ebd0b05388a9c6d36"
+  },
+  {
+    "original": "originals/IMG_20261007_172908.jpg",
+    "web": "assets/images/photo-02.webp",
+    "sha256": "f9eec1d7bef006a3cff519003e73d86e2e63a7650b27460e0572d1700d5e2926"
+  },
+  {
+    "original": "originals/IMG_20261007_172933.jpg",
+    "web": "assets/images/photo-03.webp",
+    "sha256": "17ce36c44b1837731b08a2c62e975c3a3b7d690660fde3346a3ee8750bc1bd8e"
+  },
+  {
+    "original": "originals/IMG_20261007_173037.jpg",
+    "web": "assets/images/photo-04.webp",
+    "sha256": "5b2de423b421a8a019d52c2d601f8949ba0f64dfbcbdd83148b1e546d428aba3"
+  },
+  {
+    "original": "originals/IMG_20261007_173102.jpg",
+    "web": "assets/images/photo-05.webp",
+    "sha256": "2a23efb058185da8b3d32322f89690b3321d79a2a47491db696ba254f291e8b1"
+  },
+  {
+    "original": "originals/IMG_20261007_173124.jpg",
+    "web": "assets/images/photo-06.webp",
+    "sha256": "558bf85291e4715668f2e3e6e27046c9d52b58e79d8f1e176efcfdd98719d620"
+  },
+  {
+    "original": "originals/IMG_20261007_173148.jpg",
+    "web": "assets/images/photo-07.webp",
+    "sha256": "bd760e200787a5c23f71a6169ebde594223457a8a90b5373cbe0db085674c896"
+  },
+  {
+    "original": "originals/IMG_20261007_173206.jpg",
+    "web": "assets/images/photo-08.webp",
+    "sha256": "538b79aae3415b822c0220e934df5454cdfc593ed7deea658fa76dc23e4cf298"
+  },
+  {
+    "original": "originals/IMG_20261007_173228.jpg",
+    "web": "assets/images/photo-09.webp",
+    "sha256": "ac2037f51a80a9ce27711689391dc92a1283c8622105f3588180c8d17a960fdf"
+  },
+  {
+    "original": "originals/IMG_20261007_173242.jpg",
+    "web": "assets/images/photo-10.webp",
+    "sha256": "c442d9e4c7008acf4d98616467e20180f89708b910f52c6343ff72a310d8b7e6"
+  },
+  {
+    "original": "originals/IMG_20261007_173300.jpg",
+    "web": "assets/images/photo-11.webp",
+    "sha256": "ec6adaba30b1a35acf24000de6a0eec174831c6b06c5267960450cc5adbc9995"
+  },
+  {
+    "original": "originals/IMG_20261007_175926_193.jpg",
+    "web": "assets/images/photo-12.webp",
+    "sha256": "bf68e406f92d44bc3688053059b05f944159c839e0e2f87d245f10e122dd989a"
+  },
+  {
+    "original": "originals/IMG_20261007_175930_862.jpg",
+    "web": "assets/images/photo-13.webp",
+    "sha256": "1692e7bbdc76d06b45be76d294cd68bcb09d98e519eda68c7796827c73b96a9d"
+  },
+  {
+    "original": "originals/IMG_20261007_175933_714.jpg",
+    "web": "assets/images/photo-14.webp",
+    "sha256": "b6c9811f8777564d4a58e3e0e4560a1ca58eb299e91df779b08317fb19561fa5"
+  },
+  {
+    "original": "originals/IMG_20261007_175940_775.jpg",
+    "web": "assets/images/photo-15.webp",
+    "sha256": "e8272d90fdb329818398139075de8decaff9b7e0c37944d0aa2267398d734f70"
+  },
+  {
+    "original": "originals/IMG_20261007_175944_334.jpg",
+    "web": "assets/images/photo-16.webp",
+    "sha256": "0ed1b7e34bfacce8e912f9aacb96851737adc1531e706d00519b9a822759c454"
+  },
+  {
+    "original": "originals/IMG_20261007_175946_840.jpg",
+    "web": "assets/images/photo-17.webp",
+    "sha256": "4556f28c402189eb9d48d0012e6c2220b74274043c81c9c43771b1e8a9db3fd5"
+  },
+  {
+    "original": "originals/IMG_20261007_175949_871.jpg",
+    "web": "assets/images/photo-18.webp",
+    "sha256": "cce17acbdc126a67ecc3a5005a429167dde2ffba3842e9f2e4a32128abe3055c"
+  },
+  {
+    "original": "originals/IMG_20261007_175956_453.jpg",
+    "web": "assets/images/photo-19.webp",
+    "sha256": "0f3138a636ee3b610db4fe117144570d2322ac72c9b42d414c5b9675a253eee1"
+  },
+  {
+    "original": "originals/IMG_20261007_180006_673.jpg",
+    "web": "assets/images/photo-20.webp",
+    "sha256": "29d1e364bbe5d65b947a52266f8ff50b079d6f4cd743a752ebe19ccf76b29bb8"
+  },
+  {
+    "original": "originals/IMG_20261007_180014_770.jpg",
+    "web": "assets/images/photo-21.webp",
+    "sha256": "9cc84e90d8724b4b3a87f2d63b8f47d2c1c7c0db053c0ba281fb4f3439afa5bf"
+  }
+]
