@@ -45,7 +45,7 @@
 .service-page .sp-faq-list summary{padding:23px 0;font-size:14px}
 .service-page .sp-faq-list details p{padding:0 25px 25px 0;font-size:13px;line-height:1.85}
 .service-page .sp-enquiry{background:var(--wine);color:var(--paper);display:grid;grid-template-columns:1.2fr .8fr;gap:12%;align-items:center;max-width:none}
-.service-page .sp-enquiry .eyebrow,.service-page .sp-enquiry p{color:#ead8cc}
+.service-page .sp-enquiry .eyebrow,.service-page .sp-enquiry p{color:#e5ead7}
 .service-page .sp-enquiry>div>p:not(.eyebrow){max-width:480px;margin-top:26px;font-size:14px;line-height:1.85}
 .service-page .sp-enquiry .button{margin-top:32px;border-color:var(--paper);background:var(--paper);color:var(--wine)}
 .service-page .sp-enquiry .button:hover{background:#e7d7c7;border-color:#e7d7c7}

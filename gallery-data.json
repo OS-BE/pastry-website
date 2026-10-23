@@ -48,20 +48,20 @@
     "cn": "色彩、动作与收尾的巧思。"
   },
   {
-    "src": "assets/images/new/green-basque-cheesecake.jpg",
-    "category": "cheesecake",
-    "en": "Texture in focus",
-    "zh": "细看质地",
-    "detail": "From a whole cheesecake to the first slice.",
-    "cn": "从完整芝士蛋糕，到第一片切面。"
+    "src": "assets/images/revisions/cocoa-mini-cakes.webp",
+    "category": "desserts",
+    "en": "Small cakes, a cocoa finish",
+    "zh": "可可点缀的小蛋糕",
+    "detail": "Piped cream and a delicate dusting, ready to share.",
+    "cn": "裱花奶油与细腻粉饰，等待分享。"
   },
   {
-    "src": "assets/images/new/chocolate-cheesecake-spoon.jpg",
+    "src": "assets/images/revisions/green-cheesecake-held.webp",
     "category": "cheesecake",
-    "en": "A spoonful of chocolate",
-    "zh": "一勺巧克力",
-    "detail": "A closer look at the centre of the dessert.",
-    "cn": "凑近一点，探索甜品的内心。"
+    "en": "A closer look at texture",
+    "zh": "近看细腻质地",
+    "detail": "A green cheesecake slice, held up to reveal its centre.",
+    "cn": "托起绿色芝士蛋糕切片，展现内里的细腻。"
   },
   {
     "src": "assets/images/new/dark-cheesecake-handheld.jpg",
@@ -72,12 +72,12 @@
     "cn": "以简洁呈现，让质地表达。"
   },
   {
-    "src": "assets/images/new/green-cheesecake-berry-sauce.jpg",
+    "src": "assets/images/revisions/classic-cheesecake-stack.webp",
     "category": "cheesecake",
-    "en": "Plated with contrast",
-    "zh": "盘中的对比",
-    "detail": "A single portion, finished with colour.",
-    "cn": "以色彩点缀的独立份甜点。"
+    "en": "The classic cheesecake",
+    "zh": "经典芝士蛋糕",
+    "detail": "Two generous slices, with a caramelised top and creamy centre.",
+    "cn": "两片丰厚切块，焦香表面与细腻内心。"
   },
   {
     "src": "assets/images/new/chocolate-basque-cheesecake.jpg",
@@ -120,12 +120,12 @@
     "cn": "以特别的形状，呈现庆祝蛋糕。"
   },
   {
-    "src": "assets/images/photo-16.webp",
+    "src": "assets/images/revisions/seasonal-fig-cake.webp",
     "category": "desserts",
-    "en": "The small-dessert assortment",
-    "zh": "小甜点拼盘",
-    "detail": "A variety of shapes, colours and finishing details.",
-    "cn": "多样的形状、色彩与装饰细节。"
+    "en": "A seasonal cake with figs",
+    "zh": "无花果时令蛋糕",
+    "detail": "Sliced cake, piped cream and fresh figs for the table.",
+    "cn": "切块蛋糕、裱花奶油与鲜无花果，呈现餐桌美味。"
   },
   {
     "src": "assets/images/new/coffee-tiramisu-dusting.jpg",
