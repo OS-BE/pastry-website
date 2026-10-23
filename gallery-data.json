@@ -1,0 +1,194 @@
+[
+  {
+    "src": "assets/images/new/classic-basque-cheesecake.jpg",
+    "category": "cheesecake",
+    "en": "The Basque cheesecake",
+    "zh": "巴斯克芝士蛋糕",
+    "detail": "A caramelised top. A soft centre. A careful cut.",
+    "cn": "焦香表面，柔软内心，细致切面。"
+  },
+  {
+    "src": "assets/images/portfolio/chocolate-layer-cake.webp",
+    "category": "desserts",
+    "en": "Layer upon layer",
+    "zh": "层层叠叠",
+    "detail": "Thin cake layers and cream, composed as one.",
+    "cn": "薄蛋糕片与奶油，层层组合。"
+  },
+  {
+    "src": "assets/images/new/green-tiramisu-coupe.jpg",
+    "category": "desserts",
+    "en": "The coupe collection",
+    "zh": "高脚杯甜品系列",
+    "detail": "A layered dessert with a theatrical finish.",
+    "cn": "层叠甜品，加上一笔点睛。"
+  },
+  {
+    "src": "assets/images/portfolio/croissants.webp",
+    "category": "bread",
+    "en": "French boulangerie",
+    "zh": "法式面包烘焙",
+    "detail": "Croissants, lamination and the pleasure of baking.",
+    "cn": "可颂、起酥与烘焙的乐趣。"
+  },
+  {
+    "src": "assets/images/photo-13.webp",
+    "category": "events",
+    "en": "A table for celebration",
+    "zh": "庆祝的甜品台",
+    "detail": "Individual desserts, brought together for an occasion.",
+    "cn": "以独立份甜点，共同呈现庆祝时刻。"
+  },
+  {
+    "src": "assets/images/new/purple-tiramisu-studio.jpg",
+    "category": "desserts",
+    "en": "A final flourish",
+    "zh": "最后的点缀",
+    "detail": "Colour, movement and a little finishing magic.",
+    "cn": "色彩、动作与收尾的巧思。"
+  },
+  {
+    "src": "assets/images/new/green-basque-cheesecake.jpg",
+    "category": "cheesecake",
+    "en": "Texture in focus",
+    "zh": "细看质地",
+    "detail": "From a whole cheesecake to the first slice.",
+    "cn": "从完整芝士蛋糕，到第一片切面。"
+  },
+  {
+    "src": "assets/images/new/chocolate-cheesecake-spoon.jpg",
+    "category": "cheesecake",
+    "en": "A spoonful of chocolate",
+    "zh": "一勺巧克力",
+    "detail": "A closer look at the centre of the dessert.",
+    "cn": "凑近一点，探索甜品的内心。"
+  },
+  {
+    "src": "assets/images/new/dark-cheesecake-handheld.jpg",
+    "category": "cheesecake",
+    "en": "The art of the slice",
+    "zh": "切片的艺术",
+    "detail": "A simple presentation that lets texture speak.",
+    "cn": "以简洁呈现，让质地表达。"
+  },
+  {
+    "src": "assets/images/new/green-cheesecake-berry-sauce.jpg",
+    "category": "cheesecake",
+    "en": "Plated with contrast",
+    "zh": "盘中的对比",
+    "detail": "A single portion, finished with colour.",
+    "cn": "以色彩点缀的独立份甜点。"
+  },
+  {
+    "src": "assets/images/new/chocolate-basque-cheesecake.jpg",
+    "category": "cheesecake",
+    "en": "A whole-cake moment",
+    "zh": "完整蛋糕的片刻",
+    "detail": "A generous centrepiece with a considered finish.",
+    "cn": "丰盛的餐桌焦点，用心收尾。"
+  },
+  {
+    "src": "assets/images/portfolio/colourful-layer-cake.webp",
+    "category": "desserts",
+    "en": "Colour between the layers",
+    "zh": "层次之间的色彩",
+    "detail": "A playful approach to the layered cake.",
+    "cn": "以轻松趣味演绎夹层蛋糕。"
+  },
+  {
+    "src": "assets/images/portfolio/celebration-layer-cake.webp",
+    "category": "desserts",
+    "en": "Made for an occasion",
+    "zh": "为庆祝而作",
+    "detail": "Layered cakes, dressed for the table.",
+    "cn": "为餐桌盛装呈现的夹层蛋糕。"
+  },
+  {
+    "src": "assets/images/portfolio/decorated-mini-cakes.webp",
+    "category": "desserts",
+    "en": "Small cakes, personal details",
+    "zh": "小蛋糕，细致心意",
+    "detail": "Individual creations, each with its own finish.",
+    "cn": "每一份独立创作，都有自己的细节。"
+  },
+  {
+    "src": "assets/images/portfolio/number-cakes.webp",
+    "category": "desserts",
+    "en": "A number worth celebrating",
+    "zh": "值得庆祝的数字",
+    "detail": "A celebration cake with a personal shape.",
+    "cn": "以特别的形状，呈现庆祝蛋糕。"
+  },
+  {
+    "src": "assets/images/photo-16.webp",
+    "category": "desserts",
+    "en": "The small-dessert assortment",
+    "zh": "小甜点拼盘",
+    "detail": "A variety of shapes, colours and finishing details.",
+    "cn": "多样的形状、色彩与装饰细节。"
+  },
+  {
+    "src": "assets/images/new/coffee-tiramisu-dusting.jpg",
+    "category": "desserts",
+    "en": "The finishing ritual",
+    "zh": "收尾的仪式",
+    "detail": "A coupe dessert, dusted just before the moment.",
+    "cn": "高脚杯甜品，上桌前的最后点缀。"
+  },
+  {
+    "src": "assets/images/new/lemon-tiramisu-studio.jpg",
+    "category": "desserts",
+    "en": "Piped by hand",
+    "zh": "手工裱制",
+    "detail": "Each movement becomes part of the final presentation.",
+    "cn": "每一个动作，都成为呈现的一部分。"
+  },
+  {
+    "src": "assets/images/new/coconut-tiramisu-dusting.jpg",
+    "category": "desserts",
+    "en": "A delicate finish",
+    "zh": "轻盈的收尾",
+    "detail": "A textured topping, falling into place.",
+    "cn": "细碎装饰，轻轻落下。"
+  },
+  {
+    "src": "assets/images/portfolio/bread-basket.webp",
+    "category": "bread",
+    "en": "The bread table",
+    "zh": "面包的一桌",
+    "detail": "An assortment from the boulangerie portfolio.",
+    "cn": "面包作品集中的丰富组合。"
+  },
+  {
+    "src": "assets/images/portfolio/danish-pastries.webp",
+    "category": "bread",
+    "en": "Danish pastries",
+    "zh": "丹麦酥点",
+    "detail": "Small pastries, shaped and finished with care.",
+    "cn": "用心塑形与装饰的小酥点。"
+  },
+  {
+    "src": "assets/images/photo-14.webp",
+    "category": "events",
+    "en": "Dessert meets table styling",
+    "zh": "甜品与餐桌布置",
+    "detail": "A sweet table considered as part of the setting.",
+    "cn": "将甜品台作为场景的一部分来构思。"
+  },
+  {
+    "src": "assets/images/photo-15.webp",
+    "category": "events",
+    "en": "Set for a gathering",
+    "zh": "为相聚而布置",
+    "detail": "Atmosphere begins with the table.",
+    "cn": "氛围，从餐桌开始。"
+  },
+  {
+    "src": "assets/images/photo-19.webp",
+    "category": "events",
+    "en": "The joy of making together",
+    "zh": "共同制作的喜悦",
+    "detail": "A shared workshop moment around pastry.",
+    "cn": "围绕甜品，共享工作坊时光。"
+  }
+]
